@@ -6,7 +6,7 @@
 	<remote name="gitlab1" fetch="https://gitlab.com" />
 	<remote name="lineage" fetch="https://github.com/LineageOS" />
 	
-	<project name="Alromine95/device_xiaomi_blossom" path="device/xiaomi/blossom" remote="gh" revision="A16-qpr0" />
+	<project name="github.com/crdroidandroid/android_device_xiaomi_blossom" path="device/xiaomi/blossom" remote="gh" revision="16.0" />
 	
 	<project name="android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="lineage" revision="lineage-23.0" />
 	
