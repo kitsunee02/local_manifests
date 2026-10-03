@@ -18,7 +18,7 @@
 
 	<project name="HaiKito18/ViaBrowser" path="packages/apps/ViaBrowser" remote="gh" revision="main" />
 	
-	<project path="device/xiaomi/blossom-kernel" name="xc112lg/android_device_xiaomi_blossom-kernel" remote="gh" revision="main" >
+	<project path="device/xiaomi/blossom-kernel" name="crdroidandroid/android_kernel_xiaomi_blossom" remote="gh" revision="16.0" >
 		<linkfile src="headers" dest="kernel/xiaomi/blossom" />
 	</project>  
 
