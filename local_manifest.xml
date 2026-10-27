@@ -6,7 +6,7 @@
 
 	<project name="device_xiaomi_blossom" path="device/xiaomi/blossom" remote="Fiyuu" revision="17.0" />
 	
-	<project name="Jayedkhan800/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="sixteen" />
+	<project name="Jayedkhan800/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="17.0" />
 	
 	<project name="proprietary_vendor_xiaomi_blossom" path="vendor/xiaomi/blossom" remote="Fiyuu" revision="17.0" /> 
 	
