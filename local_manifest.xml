@@ -20,6 +20,6 @@
 	
 	<project name="HaiKito18/ViaBrowser" path="packages/apps/ViaBrowser" remote="gh" revision="main" /> 
 
-	<project name="Jayedkhan800/hardware_dolby" path="hardware/dolby" remote="gh" revision="16.0" />
+	<project name="Jayedkhan800/hardware_dolby" path="hardware/dolby" remote="gh" revision="16" />
 
 </manifest>
